@@ -1,0 +1,12 @@
+Added Component: Designator=R15(RESC1005X37N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AC0402FR-0710KL/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "YAG3436TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AC0402FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1005 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/AC0402FR-0710KL/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AC0402FR-0710KL/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CHIP_PU Pin=R15-1
+Added Pin To Net: NetName=+3V3 Pin=R15-2
+Added Member To Class: ClassName=Sheet1 Member=Component R15 AC0402FR-0710KL

@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=+3V3_REG Pin=U2-3
+Change Net Color : Old Net Color=RGB(152, 0, 0) New Net Color=RGB(74, 134, 232)

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+5V_VBUS1 Pin=J4-01
+Removed Pin From Net: NetName=+5V_VBUS2 Pin=J4-02
+Removed Pin From Net: NetName=+5V Pin=J4-03
+Removed Member From Class: ClassName=Sheet1 Member=J4

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=+3V3 Pin=J3-1
+Removed Pin From Net: NetName=+3V3_REG Pin=J3-2
+Change Component Footprint: Designator=J3 Old Footprint=SAMTEC-FTS-102-01-X-S New Footprint=SAMTEC_TMS-101-51-G-D
+Change Component Comment : Designator=J3 Old Comment=SAMTEC-FTS-102-01-X-S New Comment=TMS-101-51-G-D
+Change component parameters: Designator = "J3" ("J3"); Footprint = "SAMTEC-FTS-102-01-X-S"; UniqueID = "\PKOECFUE" ("\PKOECFUE")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TMS-101-51-G-D/Samtec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "TMS-101-51-G-D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/TMS-101-51-G-D/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TMS-101-51-G-D/Samtec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=J3-01
+Added Pin To Net: NetName=+3V3_REG Pin=J3-02

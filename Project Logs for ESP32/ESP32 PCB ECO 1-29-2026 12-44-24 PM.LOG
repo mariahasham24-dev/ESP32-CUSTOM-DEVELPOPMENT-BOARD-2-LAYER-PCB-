@@ -1,0 +1,13 @@
+Change component parameters: Designator = "J1" ("J1"); Footprint = "MOLEX_2171790001"; UniqueID = "\MFELAIHN" ("\MFELAIHN")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/217179-0001/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part #"; Value = "C3197684"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part #"; Value = "217179-0001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/217179-0001/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "XCVR_ESP32-S3-MINI-1-N8"; UniqueID = "\QGUNMPJF" ("\QGUNMPJF")
+Change component parameters (AddParameter): Name = "JLCPCB Part #"; Value = "C2913206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR.Part #"; Value = "ESP32-S3-MINI-1-N8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"

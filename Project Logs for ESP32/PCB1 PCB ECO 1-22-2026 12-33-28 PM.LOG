@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=+5V_VBUS1 Pin=J4-1
+Removed Pin From Net: NetName=+5V Pin=J4-2
+Removed Pin From Net: NetName=+5V_VBUS2 Pin=J4-3
+Change Component Footprint: Designator=J4 Old Footprint=SAMTEC-FTS-103-01-X-S New Footprint=SAMTEC_MTSW-101-08-G-T-240
+Change Component Comment : Designator=J4 Old Comment=SAMTEC-FTS-103-01-X-S New Comment=MTSW-101-08-G-T-240
+Change component parameters: Designator = "J4" ("J4"); Footprint = "SAMTEC-FTS-103-01-X-S"; UniqueID = "\XNWTCCGB" ("\XNWTCCGB")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "altium_native_batch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V_VBUS1 Pin=J4-01
+Added Pin To Net: NetName=+5V_VBUS2 Pin=J4-02
+Added Pin To Net: NetName=+5V Pin=J4-03

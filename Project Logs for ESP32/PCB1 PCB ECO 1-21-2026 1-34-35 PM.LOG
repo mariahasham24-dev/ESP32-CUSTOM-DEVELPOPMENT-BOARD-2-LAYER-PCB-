@@ -1,0 +1,58 @@
+Added Component: Designator=CR1(RTVS_SOD882_LTF)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Littelfuse Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AQ3045-01ETG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=CR2(RTVS_SOD882_LTF)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Littelfuse Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AQ3045-01ETG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=CR3(RTVS_SOD882_LTF)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Littelfuse Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AQ3045-01ETG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=CR4(RTVS_SOD882_LTF)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Littelfuse Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AQ3045-01ETG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=CR5(RTVS_SOD882_LTF)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Littelfuse Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AQ3045-01ETG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=CR6(RTVS_SOD882_LTF)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Littelfuse Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AQ3045-01ETG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RESC1005X37N
+Added Pin To Net: NetName=CON1_USB_P Pin=CR1-1
+Added Pin To Net: NetName=GND Pin=CR1-2
+Added Pin To Net: NetName=CON1_USB_N Pin=CR2-1
+Added Pin To Net: NetName=GND Pin=CR2-2
+Added Pin To Net: NetName=GND Pin=CR3-1
+Added Pin To Net: NetName=+5V_VBUS1 Pin=CR3-2
+Added Pin To Net: NetName=CON2_USB_P Pin=CR4-1
+Added Pin To Net: NetName=GND Pin=CR4-2
+Added Pin To Net: NetName=CON2_USB_N Pin=CR5-1
+Added Pin To Net: NetName=GND Pin=CR5-2
+Added Pin To Net: NetName=GND Pin=CR6-1
+Added Pin To Net: NetName=+5V_VBUS2 Pin=CR6-2
+Add Pin To Net: Unknown Pin: Pin R15-1
+Add Pin To Net: Unknown Pin: Pin R15-2
+Added Member To Class: ClassName=Sheet1 Member=Component CR1 AQ3045-01ETG
+Added Member To Class: ClassName=Sheet1 Member=Component CR2 AQ3045-01ETG
+Added Member To Class: ClassName=Sheet1 Member=Component CR3 AQ3045-01ETG
+Added Member To Class: ClassName=Sheet1 Member=Component CR4 AQ3045-01ETG
+Added Member To Class: ClassName=Sheet1 Member=Component CR5 AQ3045-01ETG
+Added Member To Class: ClassName=Sheet1 Member=Component CR6 AQ3045-01ETG
+Add Class Member: Failed to add class member : Component R15 10k

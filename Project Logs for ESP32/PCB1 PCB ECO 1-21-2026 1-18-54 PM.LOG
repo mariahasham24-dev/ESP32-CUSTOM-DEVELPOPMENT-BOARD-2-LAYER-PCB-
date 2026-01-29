@@ -1,0 +1,41 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R26
+Add Component: Footprint Not Found RTVS_SOD882_LTF
+Add Component: Footprint Not Found RTVS_SOD882_LTF
+Add Component: Footprint Not Found RTVS_SOD882_LTF
+Add Component: Footprint Not Found RTVS_SOD882_LTF
+Add Component: Footprint Not Found RTVS_SOD882_LTF
+Add Component: Footprint Not Found RTVS_SOD882_LTF
+Add Component: Footprint Not Found RESC1005X37N
+Add Component: Footprint Not Found SW_PTS645SK50SMTR92LFS
+Add Component: Footprint Not Found SW_PTS645SK50SMTR92LFS
+Add Pin To Net: Unknown Pin: Pin CR1-1
+Add Pin To Net: Unknown Pin: Pin CR1-2
+Add Pin To Net: Unknown Pin: Pin CR2-1
+Add Pin To Net: Unknown Pin: Pin CR2-2
+Add Pin To Net: Unknown Pin: Pin CR3-1
+Add Pin To Net: Unknown Pin: Pin CR3-2
+Add Pin To Net: Unknown Pin: Pin CR4-1
+Add Pin To Net: Unknown Pin: Pin CR4-2
+Add Pin To Net: Unknown Pin: Pin CR5-1
+Add Pin To Net: Unknown Pin: Pin CR5-2
+Add Pin To Net: Unknown Pin: Pin CR6-1
+Add Pin To Net: Unknown Pin: Pin CR6-2
+Add Pin To Net: Unknown Pin: Pin R15-1
+Add Pin To Net: Unknown Pin: Pin R15-2
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Add Pin To Net: Unknown Pin: Pin S1-3
+Add Pin To Net: Unknown Pin: Pin S1-4
+Add Pin To Net: Unknown Pin: Pin S2-1
+Add Pin To Net: Unknown Pin: Pin S2-2
+Add Pin To Net: Unknown Pin: Pin S2-3
+Add Pin To Net: Unknown Pin: Pin S2-4
+Add Class Member: Failed to add class member : Component CR1 AQ3045-01ETG
+Add Class Member: Failed to add class member : Component CR2 AQ3045-01ETG
+Add Class Member: Failed to add class member : Component CR3 AQ3045-01ETG
+Add Class Member: Failed to add class member : Component CR4 AQ3045-01ETG
+Add Class Member: Failed to add class member : Component CR5 AQ3045-01ETG
+Add Class Member: Failed to add class member : Component CR6 AQ3045-01ETG
+Add Class Member: Failed to add class member : Component R15 10k
+Add Class Member: Failed to add class member : Component S1 SWITCH
+Add Class Member: Failed to add class member : Component S2 SWITCH

@@ -1,0 +1,12 @@
+Change Component Description : Designator=S1 Old Description=Switch;Tactile;SPST-NO;OFF-MOM;Top Actuator;260 Grams;4.3mm;.05A;12VDC;Gull Wing New Description=Switch;Tactile;SPST-NO;OFF-MOM;Top Actuator;260 Grams;4.3mm;.05A;12VDC;Gull Wing | C&K PTS645SK50SMTR92 LFS
+Change Component Description : Designator=S2 Old Description=Switch;Tactile;SPST-NO;OFF-MOM;Top Actuator;260 Grams;4.3mm;.05A;12VDC;Gull Wing New Description=Switch;Tactile;SPST-NO;OFF-MOM;Top Actuator;260 Grams;4.3mm;.05A;12VDC;Gull Wing | C&K PTS645SK50SMTR92 LFS
+Change Component Description : Designator=J1 Old Description=USB Type C - Connector, Top-mount SMT, 16pos New Description=USB Type C - Connector, Top-mount SMT, 16pos | Molex Incorporated 217179-0001
+Change Component Description : Designator=J2 Old Description=USB Type C - Connector, Top-mount SMT, 16pos New Description=USB Type C - Connector, Top-mount SMT, 16pos | Molex Incorporated 217179-0001
+Added Component: Designator=U4(XCVR_ESP32-S3-MINI-1-N8)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Espressif Systems'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-S3-MINI-1-N8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component U4 ESP32-S3-MINI-1-N8

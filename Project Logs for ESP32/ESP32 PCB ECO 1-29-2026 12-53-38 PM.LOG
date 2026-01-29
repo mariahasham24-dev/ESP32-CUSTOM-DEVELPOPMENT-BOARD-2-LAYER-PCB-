@@ -1,0 +1,7 @@
+Change component parameters: Designator = "J2" ("J2"); Footprint = "MOLEX_2171790001"; UniqueID = "\PTVNEHYR" ("\PTVNEHYR")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/217179-0001/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part #"; Value = "C3197684"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part #"; Value = "2171790001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/217179-0001/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
